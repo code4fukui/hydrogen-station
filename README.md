@@ -2,8 +2,8 @@
 
 ## Civic Open Data シビックオープンデータ
 
-- [JSON](https://code4fukui.github.io/hydrogen-station/data/hydrogen-station.json)
-- [CSV](https://code4fukui.github.io/hydrogen-station/data/hydrogen-station.csv)
+- [JSON](https://code4fukui.github.io/hydrogen-station/data/hydrogen-station-info.json)
+- [CSV](https://code4fukui.github.io/hydrogen-station/data/hydrogen-station-info.csv)
 
 ## src 出展
 
